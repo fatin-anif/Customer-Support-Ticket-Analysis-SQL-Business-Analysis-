@@ -59,7 +59,7 @@ The project investigates several operational questions:
 The following charts were created in Excel to illustrate key insights from the SQL analysis.
 
 Tickets by Category
-![Tickets by Category] (Tickets by Category.png)
+
 
 
 
@@ -81,22 +81,6 @@ Customer Satisfaction by Support Channel
 • Operational performance analysis
 • Data grouping and summarisation
 • Translating data insights into business recommendations
-## Repository Structure
 
-customer-support-ticket-analysis
-
-├── data
-│   └── customer_support_tickets.csv
-
-├── sql
-│   └── support_analysis_queries.sql
-
-├── visuals
-│   ├── tickets_by_category.png
-│   ├── resolution_time_by_category.png
-│   ├── sla_breach_distribution.png
-│   └── satisfaction_by_channel.png
-
-└── README.md
 
 
