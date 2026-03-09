@@ -1,5 +1,7 @@
 # Customer-Support-Ticket-Analysis-SQL-Business-Analysis-
-This project analyses over 200,000 customer support tickets to identify operational inefficiencies, evaluate service performance, and uncover insights to improve support processes.  The analysis was conducted using SQL and focuses on key metrics such as ticket volume, resolution time, SLA compliance, escalation patterns, and customer satisfaction.
+This project analyses over 200,000 customer support tickets to identify operational inefficiencies, evaluate service performance, and uncover insights to improve support processes.
+
+The analysis was conducted using SQL and focuses on key metrics such as ticket volume, resolution time, SLA compliance, escalation patterns, and customer satisfaction.
 ### Dataset
 
 The dataset contains more than 200,000 customer support tickets with information on issue categories, response and resolution times, support channels, escalation indicators, and customer satisfaction scores.
